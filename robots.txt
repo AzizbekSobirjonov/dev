@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://azizbek-dev.vercel.app/sitemap.xml
+Sitemap: https://sobirjonov.uz/sitemap.xml
